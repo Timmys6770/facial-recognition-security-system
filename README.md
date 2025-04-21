@@ -22,7 +22,6 @@ This project combines **Arduino**, **Python**, and **Teachable Machine** to crea
   - `1 Not Accepted Faces`
 
 The trained model is included:
-- `keras_model.h5`
 - `labels.txt`
 
 ---
